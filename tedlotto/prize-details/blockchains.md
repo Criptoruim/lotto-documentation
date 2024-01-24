@@ -130,7 +130,7 @@ To ensure transparency and clarity, we invite you to check the details below abo
 | Wallet                                | [osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya](https://www.mintscan.io/osmosis/accounts/osmo1xk23a255qm4kn6gdezr6jm7zmupn23t3mh63ya) |
 | Validator(s)                          | Tedcrypto.io 🧸                                                                                                                    |
 | Ticket Stake (min stake for a ticket) | 40 $OSMO                                                                                                                           |
-| Minimum prize                         | 4 $OSMO                                                                                                                     |
+| Minimum prize                         | 0.4 $OSMO                                                                                                                     |
 | Portal                                | [https://lotto.tedcrypto.io/osmosis](https://lotto.tedcrypto.io/osmosis)                                                           |
 
 ### Planq ($PLQ)

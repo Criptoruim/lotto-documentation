@@ -155,4 +155,3 @@ To ensure transparency and clarity, we invite you to check the details below abo
 
 
 **These numbers are temporary, please check the App for updated numbers**
-
